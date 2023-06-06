@@ -1,0 +1,16 @@
+a:visited{
+    color: green;
+}
+a:hover{
+    text-decoration:none;
+}
+.container{
+    font-size: 150%;
+}
+span{
+    color: red;
+}
+.black{
+    background-color: #333;
+    color:white;
+}

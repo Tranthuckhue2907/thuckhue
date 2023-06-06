@@ -1,0 +1,31 @@
+body {
+    background-color: #fff;
+    color: #333;
+    font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+* {
+    box-sizing: border-box;
+  }
+h1{
+    color: hotpink;
+    border-bottom: 10px purple dotted ;
+}
+h4{
+    color: rgb(148, 142, 142);
+}
+ul{
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding: 30px;
+}
+.email{
+    color:green;
+}
+.web{
+    color: orange;
+}
+.web:hover{
+    color: green;
+}

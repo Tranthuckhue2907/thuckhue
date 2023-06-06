@@ -1,0 +1,16 @@
+.link1{
+    border: 5px solid green;
+}
+.link2{
+    border: 5px solid pink;
+}
+.link3{
+    border: 5px solid orange;
+}
+li{
+    padding: 10px;
+    margin: 10px;
+}
+ul{
+    list-style: none;
+}
